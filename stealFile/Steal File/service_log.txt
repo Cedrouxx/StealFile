@@ -1,0 +1,5 @@
+05/20/21 23:45:10 : Updated file "SteamService.exe" from version 0x0006002300130025 to version 0x0006003600620048.
+05/20/21 23:45:10 : Updated file "secure_desktop_capture.exe" from version 0x0000000000000000 to version 0x0006003600620048.
+05/20/21 23:45:10 : Updated file "steamxboxutil64.exe" from version 0x0000000000000000 to version 0x0006003600620048.
+05/20/21 23:45:10 : Updated file "drivers.exe" from version 0x0000000000000000 to version 0x0006002800290000.
+05/20/21 23:45:11 : Updated file "SteamService.dll" from version 0x0000000000000000 to version 0x0006003600620048.

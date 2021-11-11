@@ -1,0 +1,26 @@
+<p>{!特定商取引に基づく表示!}</p>
+<p>■利用料金</p>
+<p>有料コンテンツのご利用手続きの際、都度画面に表示いたします。</p>
+<p>■お支払い方法</p>
+<p>ゲーム内の有料コンテンツを利用するには、Credits, Esports Tokens等のゲーム内通貨が必要です。</p>
+<p>ゲーム内通貨の購入方法は、ご利用機器によって異なります。</p>
+<p>PlayStation®4をご利用の方は、PlayStation Store、Nintendo Switchをご利用の方はマイニンテンドーストア、Xbox Oneをご利用の方はMicrosoft Store、PC(Steam)をご利用の方はSteam ストア、PC(Epic Games Store)をご利用の方はEpic Games Storeでのお支払いになります。</p>
+<p>■提供時期</p> 
+<p>ご利用手続き確定後、すぐにご利用いただけます。</p>
+<p>■返品について</p> 
+<p>ご利用手続き確定後の返品・交換には応じられませんので、ご了承ください。</p>
+<p>■利用料金以外に発生する必要料金</p>
+<p>通信時に発生する通信料。</p>
+<p>■対応機種</p> 
+<p>対象のサービスが動作するPC、PlayStation®4、Xbox One、 Nintendo Switchのいずれかが必要です。動作環境は利用機器ごとに利用機器又はウェブサイトの画面にてご確認ください。</p>
+<p>■問い合わせ先</p>
+<p>サポートセンターウェブサイトの下記リンクよりメールでお問い合わせください。</p>
+<p>(https://support.rocketleague.com/hc/ja/)</p> 
+<p>■運営事業者名</p> 
+<p>Psyonix LLC</p>
+<p>■代表者氏名</p> 
+<p>Dave Hagewood</p>
+<p>■所在地</p> 
+<p>401 W. A Street, Suite 2400, San Diego, California 92101</p> 
+<p>■電話番号</p> 
+<p>上記問い合わせ先へのご請求により遅滞なく提供いたします。</p>
